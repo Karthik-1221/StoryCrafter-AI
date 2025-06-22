@@ -5,18 +5,18 @@ StoryCrafter AI is a generative storytelling app that uses *pure model ensemblin
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔀 **Pure Ensembling**: Generates parallel stories using GPT-2, GPT-2 Medium, and GPT-Neo 125M — no blending, no voting, just independent imagination.
-- 🧠 **Transfer Learning Friendly**: Easily extend the ensemble by adding fine-tuned LLMs for poetic, dramatic, or humorous tones.
-- 🖼️ **Image-Driven Inspiration**: Upload an image and let BLIP auto-caption it as part of your story prompt.
-- 🎨 **Dark-Themed Streamlit UI**: A stylish, responsive layout with side-by-side story comparisons.
-- 🔊 **Text-to-Speech Integration**: Play back your favorite story with built-in audio narration using gTTS.
-- 📤 **Editable & Downloadable Output**: Refine stories directly in the app and save original or modified versions.
+-  **Pure Ensembling**: Generates parallel stories using GPT-2, GPT-2 Medium, and GPT-Neo 125M — no blending, no voting, just independent imagination.
+-  **Transfer Learning Friendly**: Easily extend the ensemble by adding fine-tuned LLMs for poetic, dramatic, or humorous tones.
+-  **Image-Driven Inspiration**: Upload an image and let BLIP auto-caption it as part of your story prompt.
+-  **Dark-Themed Streamlit UI**: A stylish, responsive layout with side-by-side story comparisons.
+-  **Text-to-Speech Integration**: Play back your favorite story with built-in audio narration using gTTS.
+-  **Editable & Downloadable Output**: Refine stories directly in the app and save original or modified versions.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer           | Tools / Models                                         |
 |----------------|--------------------------------------------------------|
@@ -28,13 +28,13 @@ StoryCrafter AI is a generative storytelling app that uses *pure model ensemblin
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/storycrafter-ai.git
-cd storycrafter-ai
+git clone https://github.com/Karthik-1221/StoryCrafter-AI.git
+cd StoryCrafter-AI
 ```
 
 2. Install dependencies
